@@ -36,6 +36,14 @@ const Footer = () => {
               </li>
               <li>
                 <a
+                  href="#projects"
+                  className="text-gray-300 hover:text-[#0a5f5f] transition-colors"
+                >
+                  Projects
+                </a>
+              </li>
+              <li>
+                <a
                   href="#publications"
                   className="text-gray-300 hover:text-[#0a5f5f] transition-colors"
                 >
@@ -48,6 +56,14 @@ const Footer = () => {
                   className="text-gray-300 hover:text-[#0a5f5f] transition-colors"
                 >
                   Teaching
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#gallery"
+                  className="text-gray-300 hover:text-[#0a5f5f] transition-colors"
+                >
+                  Gallery
                 </a>
               </li>
               <li>
