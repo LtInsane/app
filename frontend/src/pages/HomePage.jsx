@@ -2,8 +2,10 @@ import React, { useState } from 'react';
 import Navigation from '../components/Navigation';
 import Hero from '../components/Hero';
 import About from '../components/About';
+import Projects from '../components/Projects';
 import Publications from '../components/Publications';
 import Teaching from '../components/Teaching';
+import Gallery from '../components/Gallery';
 import Blog from '../components/Blog';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
@@ -14,8 +16,10 @@ const HomePage = () => {
       <Navigation />
       <Hero />
       <About />
+      <Projects />
       <Publications />
       <Teaching />
+      <Gallery />
       <Blog />
       <Contact />
       <Footer />
