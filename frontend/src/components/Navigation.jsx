@@ -49,6 +49,12 @@ const Navigation = () => {
               About
             </button>
             <button
+              onClick={() => scrollToSection('projects')}
+              className="text-[#1a1a1a] hover:text-[#0a5f5f] transition-colors font-medium"
+            >
+              Projects
+            </button>
+            <button
               onClick={() => scrollToSection('publications')}
               className="text-[#1a1a1a] hover:text-[#0a5f5f] transition-colors font-medium"
             >
@@ -59,6 +65,12 @@ const Navigation = () => {
               className="text-[#1a1a1a] hover:text-[#0a5f5f] transition-colors font-medium"
             >
               Teaching
+            </button>
+            <button
+              onClick={() => scrollToSection('gallery')}
+              className="text-[#1a1a1a] hover:text-[#0a5f5f] transition-colors font-medium"
+            >
+              Gallery
             </button>
             <button
               onClick={() => scrollToSection('blog')}
