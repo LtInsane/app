@@ -104,6 +104,126 @@ export const academicianData = {
     }
   ],
   
+  projects: [
+    {
+      id: 1,
+      title: "Digital Transformation in Manufacturing SMEs",
+      type: "Research",
+      client: "National Science Foundation Grant",
+      duration: "2023 - Present",
+      budget: "$450,000",
+      description: "Leading a multi-year research project examining how small and medium enterprises in the manufacturing sector adopt digital technologies and transform their business models. The study involves case studies of 50+ companies across North America.",
+      outcomes: [
+        "15 peer-reviewed publications",
+        "Framework for digital readiness assessment",
+        "Policy recommendations for government agencies"
+      ],
+      status: "ongoing"
+    },
+    {
+      id: 2,
+      title: "Leadership Development Program for Fortune 500",
+      type: "Consultancy",
+      client: "Global Tech Corporation",
+      duration: "2023 - 2024",
+      budget: "$280,000",
+      description: "Designed and delivered a comprehensive leadership development program for 120 senior executives focusing on adaptive leadership, strategic thinking, and change management in rapidly evolving tech environments.",
+      outcomes: [
+        "120+ executives trained",
+        "35% improvement in leadership competencies",
+        "Custom leadership assessment tool developed"
+      ],
+      status: "completed"
+    },
+    {
+      id: 3,
+      title: "Sustainable Supply Chain Innovation",
+      type: "Research",
+      client: "European Union Research Grant",
+      duration: "2022 - 2024",
+      budget: "€320,000",
+      description: "Collaborative international research project investigating sustainable practices in global supply chains, with focus on circular economy principles and carbon footprint reduction strategies.",
+      outcomes: [
+        "International consortium of 8 universities",
+        "Published in top-tier journals",
+        "Industry white paper with 10,000+ downloads"
+      ],
+      status: "completed"
+    },
+    {
+      id: 4,
+      title: "Organizational Culture Assessment & Transformation",
+      type: "Consultancy",
+      client: "Healthcare Systems Inc.",
+      duration: "2022",
+      budget: "$150,000",
+      description: "Conducted comprehensive organizational culture assessment across 15 hospital facilities and designed transformation roadmap to improve employee engagement and patient satisfaction.",
+      outcomes: [
+        "Culture transformation roadmap",
+        "40% increase in employee engagement scores",
+        "Best practices toolkit developed"
+      ],
+      status: "completed"
+    }
+  ],
+  
+  gallery: [
+    {
+      id: 1,
+      title: "Executive Leadership MDP - Harvard Business School",
+      date: "March 2024",
+      location: "Boston, MA",
+      participants: 45,
+      image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87",
+      description: "Three-day intensive program on strategic leadership for C-suite executives"
+    },
+    {
+      id: 2,
+      title: "Innovation Workshop - Tech Startup Accelerator",
+      date: "January 2024",
+      location: "San Francisco, CA",
+      participants: 60,
+      image: "https://images.unsplash.com/photo-1552664730-d307ca884978",
+      description: "Hands-on workshop on design thinking and lean startup methodologies"
+    },
+    {
+      id: 3,
+      title: "Sustainable Business Practices Seminar",
+      date: "November 2023",
+      location: "London, UK",
+      participants: 80,
+      image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94",
+      description: "International seminar on ESG integration and sustainable value creation"
+    },
+    {
+      id: 4,
+      title: "Change Management Masterclass",
+      date: "September 2023",
+      location: "Singapore",
+      participants: 50,
+      image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b",
+      description: "Masterclass for organizational change leaders and HR professionals"
+    },
+    {
+      id: 5,
+      title: "Digital Strategy Workshop - Fortune 500",
+      date: "July 2023",
+      location: "New York, NY",
+      participants: 35,
+      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998",
+      description: "Exclusive workshop on digital transformation strategies for large enterprises"
+    },
+    {
+      id: 6,
+      title: "Academic Research Bootcamp",
+      date: "May 2023",
+      location: "Stanford, CA",
+      participants: 25,
+      image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655",
+      description: "Intensive research methodology bootcamp for doctoral students"
+    }
+  ],
+  
   courses: [
     {
       id: 1,
