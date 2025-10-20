@@ -110,6 +110,12 @@ const Navigation = () => {
               About
             </button>
             <button
+              onClick={() => scrollToSection('projects')}
+              className="block w-full text-left text-[#1a1a1a] hover:text-[#0a5f5f] py-2 font-medium"
+            >
+              Projects
+            </button>
+            <button
               onClick={() => scrollToSection('publications')}
               className="block w-full text-left text-[#1a1a1a] hover:text-[#0a5f5f] py-2 font-medium"
             >
@@ -120,6 +126,12 @@ const Navigation = () => {
               className="block w-full text-left text-[#1a1a1a] hover:text-[#0a5f5f] py-2 font-medium"
             >
               Teaching
+            </button>
+            <button
+              onClick={() => scrollToSection('gallery')}
+              className="block w-full text-left text-[#1a1a1a] hover:text-[#0a5f5f] py-2 font-medium"
+            >
+              Gallery
             </button>
             <button
               onClick={() => scrollToSection('blog')}
