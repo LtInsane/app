@@ -152,61 +152,91 @@ export const academicianData = {
   projects: [
     {
       id: 1,
-      title: "Digital Transformation in Manufacturing SMEs",
+      title: "Performance Management System Review for Damodar Valley Corporation",
       type: "Research",
-      client: "National Science Foundation Grant",
-      duration: "2023 - Present",
-      budget: "$450,000",
-      description: "Leading a multi-year research project examining how small and medium enterprises in the manufacturing sector adopt digital technologies and transform their business models. The study involves case studies of 50+ companies across North America.",
+      client: "Damodar Valley Corporation",
+      duration: "2024-25",
+      budget: "INR 20 Lakhs",
+      description: "Leading a comprehensive research study on the review and revision of the Performance Management System (PMS) for Executives at Damodar Valley Corporation. The project aims to enhance organizational effectiveness through improved performance evaluation mechanisms.",
       outcomes: [
-        "15 peer-reviewed publications",
-        "Framework for digital readiness assessment",
-        "Policy recommendations for government agencies"
+        "Comprehensive PMS framework developed",
+        "Enhanced executive performance metrics",
+        "Implementation roadmap delivered"
       ],
       status: "ongoing"
     },
     {
       id: 2,
-      title: "Leadership Development Program for Fortune 500",
+      title: "Export Facilitation Centre for Chhattisgarh",
       type: "Consultancy",
-      client: "Global Tech Corporation",
-      duration: "2023 - 2024",
-      budget: "$280,000",
-      description: "Designed and delivered a comprehensive leadership development program for 120 senior executives focusing on adaptive leadership, strategic thinking, and change management in rapidly evolving tech environments.",
+      client: "Government of Chhattisgarh",
+      duration: "2024-27",
+      budget: "INR 74 Lakhs",
+      description: "Establishing an Export Facilitation Centre for the state of Chhattisgarh to boost export capabilities of local businesses and entrepreneurs. This multi-year project focuses on capacity building and creating sustainable export ecosystems.",
       outcomes: [
-        "120+ executives trained",
-        "35% improvement in leadership competencies",
-        "Custom leadership assessment tool developed"
+        "Export facilitation infrastructure established",
+        "Training programs for 500+ entrepreneurs",
+        "Policy recommendations for state government"
       ],
-      status: "completed"
+      status: "ongoing"
     },
     {
       id: 3,
-      title: "Sustainable Supply Chain Innovation",
-      type: "Research",
-      client: "European Union Research Grant",
-      duration: "2022 - 2024",
-      budget: "€320,000",
-      description: "Collaborative international research project investigating sustainable practices in global supply chains, with focus on circular economy principles and carbon footprint reduction strategies.",
+      title: "Value Chain Mapping for Jewelry Clusters",
+      type: "Consultancy",
+      client: "Department of MSME, Government of West Bengal",
+      duration: "2022-2024",
+      budget: "INR 15 Lakhs",
+      description: "Conducted comprehensive value chain mapping of jewelry manufacturing in Singur and Mograhat clusters to identify export opportunities and enhance competitiveness of local artisans and small businesses in the global market.",
       outcomes: [
-        "International consortium of 8 universities",
-        "Published in top-tier journals",
-        "Industry white paper with 10,000+ downloads"
+        "Detailed value chain analysis completed",
+        "Export strategy framework developed",
+        "Partnership opportunities identified"
       ],
       status: "completed"
     },
     {
       id: 4,
-      title: "Organizational Culture Assessment & Transformation",
+      title: "Certification Matrix for West Bengal Entrepreneurs",
       type: "Consultancy",
-      client: "Healthcare Systems Inc.",
-      duration: "2022",
-      budget: "$150,000",
-      description: "Conducted comprehensive organizational culture assessment across 15 hospital facilities and designed transformation roadmap to improve employee engagement and patient satisfaction.",
+      client: "West Bengal Industrial Development Corporation (WBIDC)",
+      duration: "2021-2022",
+      budget: "INR 18.6 Lakhs",
+      description: "Developed consultancy solutions for creating a certification matrix for potential entrepreneurs and exporters in West Bengal, aimed at standardizing entrepreneurial competencies and export readiness assessment.",
       outcomes: [
-        "Culture transformation roadmap",
-        "40% increase in employee engagement scores",
-        "Best practices toolkit developed"
+        "Certification framework designed",
+        "Assessment tools developed",
+        "Training modules created"
+      ],
+      status: "completed"
+    },
+    {
+      id: 5,
+      title: "Third Party Evaluation of Deemed Export Scheme",
+      type: "Research",
+      client: "Directorate General of Foreign Trade (DGFT)",
+      duration: "2020-2021",
+      budget: "INR 21.5 Lakhs",
+      description: "Conducted third party evaluation of the Deemed Export Scheme (TED/DBK) under FTP 2015-20 for DGFT, assessing scheme effectiveness and providing recommendations for policy improvements.",
+      outcomes: [
+        "Comprehensive evaluation report submitted",
+        "Policy recommendations for FTP revision",
+        "Best practices documentation"
+      ],
+      status: "completed"
+    },
+    {
+      id: 6,
+      title: "Sustainable Development Perspective Plan for Tea Board",
+      type: "Consultancy",
+      client: "Tea Board of India",
+      duration: "2020-2021",
+      budget: "INR 19 Lakhs",
+      description: "Developed a perspective plan for sustainable development activities to be undertaken on long-term and short-term basis, aligned with Tea Board of India's objectives and Key Result Areas.",
+      outcomes: [
+        "Long-term sustainability roadmap",
+        "Short-term action plans",
+        "KRA-aligned implementation strategy"
       ],
       status: "completed"
     }
