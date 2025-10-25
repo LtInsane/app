@@ -107,21 +107,21 @@ const Gallery = () => {
         <div className="mt-16 grid md:grid-cols-3 gap-8">
           <div className="text-center transform hover:scale-105 transition-transform duration-300">
             <div className="text-6xl font-bold text-white mb-2" style={{ fontFamily: 'Playfair Display, serif' }}>
-              50+
+              20+
             </div>
             <div className="text-white/80 text-lg">Executive Programs Conducted</div>
           </div>
           <div className="text-center transform hover:scale-105 transition-transform duration-300">
             <div className="text-6xl font-bold text-white mb-2" style={{ fontFamily: 'Playfair Display, serif' }}>
-              2000+
+              500+
             </div>
             <div className="text-white/80 text-lg">Professionals Trained</div>
           </div>
           <div className="text-center transform hover:scale-105 transition-transform duration-300">
             <div className="text-6xl font-bold text-white mb-2" style={{ fontFamily: 'Playfair Display, serif' }}>
-              15+
+              6
             </div>
-            <div className="text-white/80 text-lg">Countries Visited</div>
+            <div className="text-white/80 text-lg">Major Projects Led</div>
           </div>
         </div>
       </div>
