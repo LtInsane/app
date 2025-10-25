@@ -36,7 +36,7 @@ const Navigation = () => {
               className="text-2xl font-bold text-[#0a5f5f] hover:text-[#083d3d] transition-colors"
               style={{ fontFamily: 'Playfair Display, serif' }}
             >
-              Dr. Anderson
+              Dr. Sharma
             </button>
           </div>
 
