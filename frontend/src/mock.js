@@ -2,35 +2,38 @@
 
 export const academicianData = {
   profile: {
-    name: "Dr. Sarah Anderson",
-    title: "Professor of Strategic Management",
-    institution: "School of Business & Management",
-    email: "s.anderson@university.edu",
-    phone: "+1 (555) 123-4567",
-    office: "Business Building, Room 305",
-    bio: "Dr. Sarah Anderson is a distinguished Professor of Strategic Management with over 15 years of experience in academia and consulting. Her research focuses on organizational behavior, innovation management, and sustainable business practices. She has published extensively in top-tier journals and has been recognized for her exceptional teaching and mentorship.",
+    name: "Dr. Naman Sharma",
+    title: "Assistant Professor",
+    institution: "Indian Institute of Foreign Trade (IIFT), Kolkata Campus",
+    email: "namanshandilya@gmail.com",
+    phone: "+91 8750987313",
+    office: "IIFT Kolkata Campus, Kolkata, India - 700103",
+    bio: "Dr. Naman Sharma is an Assistant Professor of General Management & Strategy (OB/HR & Entrepreneurship) at the Indian Institute of Foreign Trade, Kolkata Campus. His research focuses on leveraging positive deviance for employee engagement, entrepreneurial intentions with emphasis on self-efficacy, and fostering inclusive work environments. He has published extensively in top-tier ABDC and Scopus indexed journals and has edited multiple books. He is also actively involved in research consultancy projects and executive training programs.",
     expertise: [
-      "Strategic Management",
       "Organizational Behavior",
-      "Innovation & Entrepreneurship",
-      "Sustainable Business Practices",
-      "Corporate Governance"
+      "Human Resource Management",
+      "Entrepreneurship",
+      "Employee Engagement",
+      "Positive Deviance",
+      "Digital Transformation",
+      "Workplace Inclusion",
+      "Talent Management"
     ],
     education: [
       {
         degree: "Ph.D. in Management",
-        institution: "Stanford Graduate School of Business",
-        year: "2008"
+        institution: "Faculty of Management Studies, Gurukul Kangri University",
+        year: "2016"
       },
       {
         degree: "MBA",
-        institution: "Harvard Business School",
-        year: "2003"
+        institution: "Gautam Buddha Technical University, BIET Jhansi",
+        year: "2011"
       },
       {
-        degree: "B.Sc. in Business Administration",
-        institution: "University of California, Berkeley",
-        year: "2001"
+        degree: "B.Sc.",
+        institution: "MJP Rohilkhand University, Bareilly",
+        year: "2007"
       }
     ]
   },
