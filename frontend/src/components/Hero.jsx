@@ -94,21 +94,21 @@ const Hero = () => {
           <div className="mt-12 grid grid-cols-3 gap-6">
             <div className="text-center transform hover:scale-110 transition-transform">
               <div className="text-4xl font-bold text-white mb-1" style={{ fontFamily: 'Playfair Display, serif' }}>
-                15+
+                8+
               </div>
               <div className="text-white/80 text-sm uppercase tracking-wide">Years</div>
             </div>
             <div className="text-center transform hover:scale-110 transition-transform">
               <div className="text-4xl font-bold text-white mb-1" style={{ fontFamily: 'Playfair Display, serif' }}>
-                200+
+                30+
               </div>
               <div className="text-white/80 text-sm uppercase tracking-wide">Publications</div>
             </div>
             <div className="text-center transform hover:scale-110 transition-transform">
               <div className="text-4xl font-bold text-white mb-1" style={{ fontFamily: 'Playfair Display, serif' }}>
-                50+
+                9
               </div>
-              <div className="text-white/80 text-sm uppercase tracking-wide">Programs</div>
+              <div className="text-white/80 text-sm uppercase tracking-wide">Books Edited</div>
             </div>
           </div>
         </div>
