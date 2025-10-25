@@ -107,7 +107,7 @@ const Footer = () => {
                 <Twitter size={20} />
               </a>
               <a
-                href="mailto:s.anderson@university.edu"
+                href="mailto:namanshandilya@gmail.com"
                 className="w-10 h-10 bg-gray-800 hover:bg-[#0a5f5f] rounded-full flex items-center justify-center transition-colors"
                 aria-label="Email"
               >
@@ -124,9 +124,9 @@ const Footer = () => {
               </a>
             </div>
             <p className="text-gray-400 text-sm mt-6">
-              School of Business & Management
+              Indian Institute of Foreign Trade
               <br />
-              Business Building, Room 305
+              Kolkata Campus, Kolkata, India - 700103
             </p>
           </div>
         </div>
