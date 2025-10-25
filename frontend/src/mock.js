@@ -302,95 +302,95 @@ export const academicianData = {
   courses: [
     {
       id: 1,
-      code: "MGT 501",
-      title: "Strategic Management & Business Policy",
+      code: "MBA",
+      title: "Organizational Behavior",
       level: "Graduate",
-      semester: "Fall 2024",
-      students: 45,
-      description: "An advanced course covering strategic analysis, competitive advantage, and business-level strategy formulation and implementation."
+      semester: "2024-26",
+      students: 120,
+      description: "Core MBA course covering individual and group behavior in organizations, leadership theories, motivation, organizational culture, and change management."
     },
     {
       id: 2,
-      code: "MGT 340",
-      title: "Organizational Behavior",
-      level: "Undergraduate",
-      semester: "Spring 2024",
-      students: 60,
-      description: "Explores individual and group behavior in organizational settings, leadership theories, and organizational culture."
+      code: "MBA",
+      title: "Human Resource Management",
+      level: "Graduate",
+      semester: "2024-26",
+      students: 120,
+      description: "Comprehensive course on HRM practices including talent acquisition, performance management, compensation, training & development, and employee relations."
     },
     {
       id: 3,
-      code: "MGT 615",
-      title: "Innovation & Entrepreneurship",
+      code: "MBA",
+      title: "Entrepreneurship Development",
       level: "Graduate",
-      semester: "Fall 2024",
-      students: 32,
-      description: "Examines innovation processes, entrepreneurial strategies, and managing innovation in established organizations."
+      semester: "2024-26",
+      students: 120,
+      description: "Explores entrepreneurial mindset, opportunity recognition, business model innovation, and strategies for launching and scaling new ventures."
     },
     {
       id: 4,
-      code: "MGT 450",
-      title: "Sustainable Business Practices",
-      level: "Undergraduate",
-      semester: "Spring 2024",
-      students: 55,
-      description: "Focuses on sustainability strategies, corporate social responsibility, and creating long-term value for stakeholders."
+      code: "MBA",
+      title: "Strategic Management",
+      level: "Graduate",
+      semester: "2024-26",
+      students: 120,
+      description: "Advanced course on strategic analysis, competitive advantage, corporate strategy, and strategic implementation in dynamic business environments."
     }
   ],
   
   blogPosts: [
     {
       id: 1,
-      title: "The Evolution of Leadership in the Digital Age",
-      excerpt: "Exploring how digital transformation is reshaping leadership practices and organizational structures in modern enterprises.",
+      title: "Positive Deviance: A Strategy for Employee Engagement",
+      excerpt: "Exploring how organizations can leverage positive deviance to enhance employee engagement and drive organizational performance.",
       date: "2024-03-15",
       readTime: "8 min",
-      category: "Leadership"
+      category: "Organizational Behavior"
     },
     {
       id: 2,
-      title: "Why Sustainable Business Models Are the Future",
-      excerpt: "An in-depth analysis of how sustainability is becoming a competitive advantage for forward-thinking organizations.",
+      title: "Breaking Barriers: Inclusive Hiring Practices",
+      excerpt: "Understanding and addressing managerial hesitancy towards building truly inclusive workplaces and diverse teams.",
       date: "2024-02-28",
       readTime: "6 min",
-      category: "Sustainability"
+      category: "Diversity & Inclusion"
     },
     {
       id: 3,
-      title: "Building Resilient Organizations: Lessons from Crisis Management",
-      excerpt: "Key insights from recent research on how organizations can prepare for and navigate through unprecedented challenges.",
+      title: "Women Entrepreneurship in India: Challenges and Opportunities",
+      excerpt: "Examining the factors influencing women entrepreneurial intentions and the role of self-efficacy in entrepreneurial success.",
       date: "2024-02-10",
       readTime: "10 min",
-      category: "Strategy"
+      category: "Entrepreneurship"
     },
     {
       id: 4,
-      title: "The Role of Innovation in Competitive Advantage",
-      excerpt: "Understanding how continuous innovation drives sustainable competitive advantage in today's fast-paced business environment.",
+      title: "Digital Transformation and Talent Management in Industry 4.0",
+      excerpt: "Insights on managing human resources in the era of digital transformation and emerging Industry 4.0 technologies.",
       date: "2024-01-22",
       readTime: "7 min",
-      category: "Innovation"
+      category: "Digital HR"
     }
   ],
   
   awards: [
     {
       id: 1,
-      title: "Excellence in Teaching Award",
-      organization: "School of Business & Management",
-      year: 2023
+      title: "Best Paper Award",
+      organization: "NIT Hamirpur - GLOSMAN 2024",
+      year: 2024
     },
     {
       id: 2,
       title: "Best Paper Award",
-      organization: "Academy of Management",
+      organization: "IIM Indore - GIZ Germany Online Conference",
       year: 2022
     },
     {
       id: 3,
-      title: "Outstanding Research Contribution",
-      organization: "Strategic Management Society",
-      year: 2021
+      title: "ICSSR Doctoral Fellowship",
+      organization: "Indian Council of Social Science Research",
+      year: 2014
     }
   ]
 };
