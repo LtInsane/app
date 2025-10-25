@@ -14,11 +14,10 @@ const Footer = () => {
               className="text-2xl font-bold mb-4 text-[#0a5f5f]"
               style={{ fontFamily: 'Playfair Display, serif' }}
             >
-              Dr. Sarah Anderson
+              Dr. Naman Sharma
             </h3>
             <p className="text-gray-300 leading-relaxed">
-              Professor of Strategic Management dedicated to advancing knowledge in organizational
-              behavior, innovation, and sustainable business practices.
+              Assistant Professor of General Management & Strategy (OB/HR & Entrepreneurship) at Indian Institute of Foreign Trade, Kolkata. Dedicated to advancing knowledge in organizational behavior, employee engagement, and inclusive work environments.
             </p>
           </div>
 
