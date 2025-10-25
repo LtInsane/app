@@ -245,57 +245,57 @@ export const academicianData = {
   gallery: [
     {
       id: 1,
-      title: "Executive Leadership MDP - Harvard Business School",
-      date: "March 2024",
-      location: "Boston, MA",
-      participants: 45,
+      title: "Management Doctoral & Researcher's Colloquium 2024",
+      date: "September 2024",
+      location: "IIFT Kolkata",
+      participants: 50,
       image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87",
-      description: "Three-day intensive program on strategic leadership for C-suite executives"
+      description: "Co-Convener of the prestigious Management Doctoral & Researcher's Colloquium at IIFT Kolkata, bringing together doctoral scholars and researchers"
     },
     {
       id: 2,
-      title: "Innovation Workshop - Tech Startup Accelerator",
-      date: "January 2024",
-      location: "San Francisco, CA",
-      participants: 60,
+      title: "Handholding Training Program for Arunachal Pradesh Exporters",
+      date: "May 2024",
+      location: "Arunachal Pradesh",
+      participants: 40,
       image: "https://images.unsplash.com/photo-1552664730-d307ca884978",
-      description: "Hands-on workshop on design thinking and lean startup methodologies"
+      description: "Five-day intensive handholding training program for prospective exporters and entrepreneurs of Arunachal Pradesh"
     },
     {
       id: 3,
-      title: "Sustainable Business Practices Seminar",
-      date: "November 2023",
-      location: "London, UK",
-      participants: 80,
+      title: "Export Orientation Training for Sikkim Entrepreneurs",
+      date: "June 2023",
+      location: "Sikkim",
+      participants: 35,
       image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94",
-      description: "International seminar on ESG integration and sustainable value creation"
+      description: "Five-day MDP on export orientation training for budding entrepreneurs of Sikkim, focusing on international trade practices"
     },
     {
       id: 4,
-      title: "Change Management Masterclass",
-      date: "September 2023",
-      location: "Singapore",
-      participants: 50,
+      title: "Training of Master Trainers - Gems & Jewellery Sector",
+      date: "November 2021 - May 2022",
+      location: "West Bengal",
+      participants: 25,
       image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b",
-      description: "Masterclass for organizational change leaders and HR professionals"
+      description: "Comprehensive training program for master trainers in export consultancy for gems, jewellery and apparel sector of West Bengal"
     },
     {
       id: 5,
-      title: "Digital Strategy Workshop - Fortune 500",
-      date: "July 2023",
-      location: "New York, NY",
-      participants: 35,
+      title: "Workshop on Interpretive Structural Modeling",
+      date: "September 2024",
+      location: "IIFT Kolkata",
+      participants: 30,
       image: "https://images.unsplash.com/photo-1531482615713-2afd69097998",
-      description: "Exclusive workshop on digital transformation strategies for large enterprises"
+      description: "Resource person for specialized workshop on Interpretive Structural Modeling methodology for MDRC 2024 participants"
     },
     {
       id: 6,
-      title: "Academic Research Bootcamp",
-      date: "May 2023",
-      location: "Stanford, CA",
-      participants: 25,
+      title: "Women in Leadership Training - IOCL",
+      date: "July 2023",
+      location: "Kolkata",
+      participants: 45,
       image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655",
-      description: "Intensive research methodology bootcamp for doctoral students"
+      description: "Resource person for 'Women in Leadership' training program for women officers of Indian Oil Corporation Limited, focusing on building networks and negotiation skills"
     }
   ],
   
