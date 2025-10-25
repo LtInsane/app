@@ -133,7 +133,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 pt-8 text-center text-gray-400">
           <p>
-            &copy; {currentYear} Dr. Sarah Anderson. All rights reserved.
+            &copy; {currentYear} Dr. Naman Sharma. All rights reserved.
           </p>
         </div>
       </div>
