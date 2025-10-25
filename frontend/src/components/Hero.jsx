@@ -36,7 +36,7 @@ const Hero = () => {
           <div className="mb-6 inline-block">
             <div className="flex items-center gap-2 px-4 py-2 bg-[#0a5f5f]/90 text-white text-sm font-semibold tracking-wide uppercase rounded-full backdrop-blur-sm border-2 border-white/20 animate-pulse">
               <Sparkles size={16} />
-              <span>Professor of Strategic Management</span>
+              <span>Assistant Professor - OB/HR & Entrepreneurship</span>
             </div>
           </div>
           
@@ -47,16 +47,16 @@ const Hero = () => {
               className="absolute top-2 left-2 text-5xl md:text-6xl lg:text-8xl font-bold text-[#0a5f5f] opacity-50 blur-sm"
               style={{ fontFamily: 'Playfair Display, serif' }}
             >
-              Dr. Sarah Anderson
+              Dr. Naman Sharma
             </h1>
             {/* Main text */}
             <h1
               className="relative text-5xl md:text-6xl lg:text-8xl font-bold text-white leading-tight"
               style={{ fontFamily: 'Playfair Display, serif' }}
             >
-              Dr. Sarah <br />
+              Dr. Naman <br />
               <span className="inline-block transform -rotate-2 bg-[#0a5f5f] px-4 py-2">
-                Anderson
+                Sharma
               </span>
             </h1>
           </div>
@@ -65,9 +65,9 @@ const Hero = () => {
           <div className="relative pl-6 mb-8">
             <div className="absolute left-0 top-0 bottom-0 w-1 bg-gradient-to-b from-[#0a5f5f] via-white to-[#8b7355]"></div>
             <p className="text-xl md:text-2xl text-gray-200 leading-relaxed">
-              Transforming organizations through{' '}
-              <span className="text-[#0a5f5f] font-bold bg-white px-2 py-1">strategic innovation</span>,{' '}
-              sustainable practices, and evidence-based leadership research.
+              Leveraging{' '}
+              <span className="text-[#0a5f5f] font-bold bg-white px-2 py-1">positive deviance</span>{' '}
+              for employee engagement and fostering inclusive work environments through research-driven insights.
             </p>
           </div>
           
